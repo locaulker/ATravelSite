@@ -1,5 +1,5 @@
 <?php
-  $page_id = 2;
+  $page_id = 3;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -13,7 +13,7 @@
   <!-- endSection: header section -->
 
   <div class="uk-block uk-block-primary uk-container uk-container-center">
-  <h1>About Us Page</h1>
+  <h1>Services Page</h1>
   </div>
   
   <!-- Section: footer section -->

@@ -4,10 +4,7 @@
       <img src="/assets/images/logo/logo.svg" alt="Logo" srcset="">
     </a>
     <ul class="uk-navbar-nav uk-hidden-small">
-      <li class="uk-active"><a href="/">Home</a></li>
-      <li><a href="/about.php">About</a></li>
-      <li><a href="/services.php">Services</a></li>
-      <li><a href="/contact.php">Contact</a></li>
+      <?php include dirname(__FILE__) . '/menu.inc.php'; ?>
     </ul>
     <div class="uk-navbar-flip uk-hidden-small">
       <ul class="uk-navbar-nav">
@@ -28,10 +25,7 @@
 <div id="offcanvas-nav" class="uk-offcanvas">
   <div class="uk-offcanvas-bar">
     <ul class="uk-nav uk-nav-offcanvas" data-uk-nav>
-      <li class="uk-active"><a href="/">Home</a></li>
-      <li><a href="/about.php">About</a></li>
-      <li><a href="/services.php">Services</a></li>
-      <li><a href="/contact.php">Contact</a></li>
+      <?php include dirname(__FILE__) . '/menu.inc.php'; ?>
     </ul>
   </div>
 </div>
