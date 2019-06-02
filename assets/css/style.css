@@ -25,3 +25,23 @@ body {
   color: #2196f3;
   background-color: #222;
 }
+
+.uk-nav, .uk-nav-offcanvas {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 90%;
+}
+
+.uk-nav-offcanvas>li>a {
+  cursor: pointer;
+  color: #fff;
+}
+
+.uk-nav-offcanvas>li>a:hover {
+  color: #2196f3;
+}
+
+
+/* @media only screen and (mxx-width: 660) {
+  // queries go here
+} */
