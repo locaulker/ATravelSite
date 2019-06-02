@@ -14,8 +14,31 @@
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
-  <h1>Travel Site</h1>
-  <a href="#" class="uk-button uk-button-primary">DEMO</a>
+  <!-- Section: header section -->
+    <nav class="uk-navbar main-nav">
+      <div class="uk-container uk-container-center">
+      <a href="" class="uk-navbar-brand">
+        <img src="/assets/images/logo/logo.svg" alt="Logo" srcset="">
+      </a>
+      <ul class="uk-navbar-nav">
+        <li class="uk-active"><a href="">Home</a></li>
+        <li><a href="/">About</a></li>
+        <li><a href="">Services</a></li>
+        <li><a href="">Contact</a></li>
+      </ul>
+      <div class="uk-navbar-flip">
+        <ul class="uk-navbar-nav">
+          <li><a href=""><i class="uk-icon-twitter"></i></a></li>
+          <li><a href=""><i class="uk-icon-facebook"></i></a></li>
+          <li><a href=""><i class="uk-icon-youtube-play"></i></a></li>
+        </ul>
+      </div>
+      <div class="uk-navbar-content">...</div>
+      <!-- <div class="uk-navbar-content uk-navbar-center">...</div> 
+      <a href="" class="uk-navbar-toggle"></a> -->
+      </div>
+    </nav>
+  <!-- endSection: header section -->
 
 
 

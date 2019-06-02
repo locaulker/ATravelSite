@@ -2,3 +2,26 @@
 body {
   font-family: 'Roboto', 'Hevetica Neue', sans-serif;
 }
+
+.main-nav {
+  background-color: #222;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 10px 0;
+}
+
+.main-nav a,
+.main-nav li a {
+  color: #fff;
+  font-weight: 300;
+}
+
+.uk-navbar-nav>li.uk-active>a {
+  background-color: #222;
+  color: #2196f3;
+}
+
+.main-nav li a:hover {
+  color: #2196f3;
+  background-color: #222;
+}
