@@ -1,6 +1,4 @@
-<?php
-  $page_id = 4;
-?>
+<?php $page_id = 4; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -41,7 +41,24 @@ body {
   color: #2196f3;
 }
 
+.tm-footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-weight: 300;
+}
 
-/* @media only screen and (mxx-width: 660) {
+.tm-footer i {
+  /* letter-spacing: 10px; */
+  padding-left: 15px;
+}
+
+/* @media only screen and (max-width: 660) {
   // queries go here
+} */
+
+/* @media (min-width: 768px) {
+  .uk-block {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
 } */
