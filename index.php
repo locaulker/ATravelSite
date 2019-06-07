@@ -9,7 +9,7 @@
     <?php include dirname(__FILE__) . '/includes/header.inc.php'; ?>
 
     <div class="uk-slidenav-position" data-uk-slideshow="{
-      autoplay:true,
+      autoplay:false,
       autoplayInterval: 3000,
       duration: 1000,
       animation: 'fade',
@@ -19,18 +19,18 @@
       <li><img src="/assets/images/slider/sunrise.jpg"/>
         <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
           <div>
-            <h1 class="uk-heading-large">Slide One</h1>
+            <h1 class="uk-heading-large">Your Next Adventure Awaits</h1>
             <p>Lorem <a href="#">ipsum dolor</a> sit amet, consetetur sadipscing elitr,<br>sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
-            <a href="#" class="uk-button uk-button-primary uk-button-large">Book Now</a>
+            <a href="#" class="uk-button uk-button-primary uk-button-large tm-button-huge">Book Now</a>
           </div>
         </div>
       </li>
       <li><img src="/assets/images/slider/seine-river.jpg"/>
         <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
           <div>
-            <h1 class="uk-heading-large">Slide Two</h1>
+            <h1 class="uk-heading-large">Have A Fabulous Vacation</h1>
             <p>Lorem <a href="#">ipsum dolor</a> sit amet, consetetur sadipscing elitr,<br>sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
-            <a href="#" class="uk-button uk-button-primary uk-button-large">Book Now</a>
+            <a href="#" class="uk-button uk-button-primary uk-button-large tm-button-huge">Book Now</a>
           </div>
         </div>
       </li>
