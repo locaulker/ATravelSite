@@ -61,7 +61,7 @@ img {
 }
 
 .tm-home-slideshow.uk-slideshow-fullscreen{
-  max-height: calc(100vh - 62px);
+	max-height: calc(100vh - 80px);
 }
 
 /* @media only screen and (max-width: 660) {
@@ -97,4 +97,48 @@ ul.uk-overlay-active p {
 	font-size: 16px;
 	color: #fff;
 }
+
+
+
+
+
+
+
+/* ========================================== */
+
+/* html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+h3 {
+	font-weight: 100;
+} */
+
+/* slidenav arrows */
+/* .uk-slidenav-contrast {
+  color: rgba(255,255,255,.6);  
+}
+
+.uk-slidenav-contrast:focus,
+.uk-slidenav-contrast:hover {
+	color: rgba(0,0,0,.1);
+	background-color: rgba(255,255,255,.6);
+	border-radius: 7px;
+} */
+
+/* slideshow overlays */
+/* ul.uk-overlay-active h3 {
+	font-size: 30px;
+	color: #fff;
+}
+ul.uk-overlay-active p {
+	font-size: 16px;
+	color: #fff;
+} */
+
+
 
