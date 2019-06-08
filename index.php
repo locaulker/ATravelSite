@@ -50,6 +50,53 @@
     </ul>
   </div>
 
+  <!-- HomePage Contents Starts here -->
+  <div class="uk-block uk-block-secondary uk-contrast">
+    <div class="uk-container uk-container-center">
+      <h2 class="uk-h1 uk-text-center">Some of Our Awsome Packages</h2>
+        <div class="uk-grid">
+
+          <div class="uk-width-medium-1-3">
+            <div class="uk-panel uk-panel-box">
+              <div class="uk-panel-teaser">
+                <img src="/assets/images/packages/cabanas.jpg" alt="">
+              </div>
+              <h3 class="uk-panel-title">Island Hoping</h3>
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime libero dignissimos expedita repellendus tenetur perferendis sed modi esse autem unde quis pariatur totam, fugiat harum tempore minus reiciendis sequi laborum.</p>
+              <p><a href="" class="uk-button uk-button-primary">Book Now</a></p>
+            </div>
+          </div>
+          <div class="uk-width-medium-1-3">
+            <div class="uk-panel uk-panel-box">
+              <div class="uk-panel-teaser">
+                <img src="/assets/images/packages/elephant.jpg" alt="">
+              </div>
+              <h3 class="uk-panel-title">African Safari</h3>
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime libero dignissimos expedita repellendus tenetur perferendis sed modi esse autem unde quis pariatur totam, fugiat harum tempore minus reiciendis sequi laborum.</p>
+              <p><a href="" class="uk-button uk-button-primary">Book Now</a></p>
+            </div>
+          </div>
+          <div class="uk-width-medium-1-3">
+            <div class="uk-panel uk-panel-box">
+              <div class="uk-panel-teaser">
+                <img src="/assets/images/packages/couple_2.jpg" alt="">
+              </div>
+              <h3 class="uk-panel-title">Couple's Special</h3>
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime libero dignissimos expedita repellendus tenetur perferendis sed modi esse autem unde quis pariatur totam, fugiat harum tempore minus reiciendis sequi laborum.</p>
+              <p><a href="" class="uk-button uk-button-primary">Book Now</a></p>
+            </div>
+          </div>
+          
+
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+
     <?php include dirname(__FILE__) . '/includes/footer.inc.php'; ?>
 </body>
 </html>

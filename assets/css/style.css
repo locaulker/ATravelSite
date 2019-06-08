@@ -3,8 +3,15 @@ body {
   font-family: 'Roboto', 'Hevetica Neue', sans-serif;
 }
 
-h1 {
+h1, h2, h3 {
 	font-weight: 100;
+}
+
+.uk-panel-title {
+  /* text-transform: uppercase; */
+  font-weight: 700;
+  /* text-align: center; */
+  font-size: 1.4em;
 }
 
 img {
